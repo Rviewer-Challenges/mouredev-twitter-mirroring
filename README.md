@@ -9,10 +9,9 @@ or Slack have become what they are today without having taken so much care of th
 For years, Twitter has been very selective with its features, and has focused on providing its users with a great user
 experience. The quality of this can be one of the main key points for our app success.
 
-Well, the goal of this Challenge is to replicate the Twitter interface, trying to make some improvements and think how
-it could be even better if you were Elon Musk 🥲
+Well, the goal of this Challenge is to replicate the Twitter interface!
 
-![Brais Moure Challenge card](moure_memory-game.png)
+![Brais Moure Challenge card](moure_twitter-mirroring.png)
 
 > This is a challenge created by [MoureDev](https://www.twitch.tv/mouredev). He will review and give feedback to some
 > proposed solutions from the community in one of his Twitch livestreams 😻
@@ -48,6 +47,13 @@ Each Tweet should contain the following functionalities:
     * Tweets with video or poll.
     * Tweets detail page, showing comments.
     * Image detail and zoom.
+
+### Extra points
+
+Every Twitter user knows that there are some key points of the application that could be improved, even Elon Musk! 😜
+
+So, if you want to challenge you a bit more, try to improve the Twitter's application on these features that you 
+guess that could be room for it. You can focus these improvements just on the UI, or even the UX and user flows.
 
 ## Technical requirements
 
